@@ -5,7 +5,7 @@
  <p align='center'><img src='https://user-images.githubusercontent.com/107105922/173007781-3c513781-4efc-42b3-adc1-ed766b1b4a78.jpg'  height='450px'> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src='https://user-images.githubusercontent.com/107105922/173008110-8ddd25c7-3c44-4ae0-9af2-b07e26854739.jpg'  height='450px'> </p>
 
 ### Xml code
-```
+```java
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
